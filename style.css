@@ -9,7 +9,9 @@ body{
     align-items: center;
     justify-content: center;
     height: 100vh;
-    background: rgb(44, 43, 43); 
+    background-image: url('./space.jpg');
+    background-size: cover;
+   /*  background: rgb(44, 43, 43);  */
     color: #fff;  
 }
 #clock{
